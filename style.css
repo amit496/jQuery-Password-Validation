@@ -1,0 +1,32 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body
+{
+    background-color: #1b1b1b;
+}
+h1
+{
+    color: #fff;
+    margin-top: 2%;
+    text-align: center;
+}
+.error_container
+{
+    margin-top: 12px;
+}
+.error
+{
+    color: crimson;
+    background: rgba(240, 65, 100, 0.589);
+    padding: 5px  10px;
+    border-radius: 10px;
+}
+.error .fa-solid
+{
+    font-size: 12px;
+    margin-right: 10px;
+}
